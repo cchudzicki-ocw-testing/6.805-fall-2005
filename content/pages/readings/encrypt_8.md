@@ -14,14 +14,14 @@ The following Top Secret memo from Brent Scowcroft to George Bush, written and t
 
 These documents were obtained in 1996 by the Electronic Privacy Information Center, under the Freedom of Information Act.
 
-{{< resource 7f95cd0a-7997-0314-e22e-571f968698b0 "Scowcroft memorandum to Bush." >}}
+{{< resource "7f95cd0a-7997-0314-e22e-571f968698b0" >}}
 
 1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
 
-{{< resource bb5de926-deb8-3b26-b803-3be8d8803e30 "Snowcroft page 1." >}}
+{{< resource "bb5de926-deb8-3b26-b803-3be8d8803e30" >}}
 
 1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
 
-{{< resource 52dd19df-25fb-8d67-301b-50bf815a164a "Snowcroft page 2." >}}
+{{< resource "52dd19df-25fb-8d67-301b-50bf815a164a" >}}
 
 1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
