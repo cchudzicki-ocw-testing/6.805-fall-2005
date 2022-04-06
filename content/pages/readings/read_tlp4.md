@@ -22,7 +22,7 @@ uid: 3ac0a6e4-b1a5-2e70-da72-d42dad9a4c86
 *   [Technical background on Cryptography](#technical)
 *   [More Information](#more)
 
-[{{< resource "4796b100-6505-fb27-32eb-f52739e5e69b" >}}]({{< baseurl >}}/resources/sessions_2_19_93)
+{{< resource uuid="4796b100-6505-fb27-32eb-f52739e5e69b" href_uuid="4796b100-6505-fb27-32eb-f52739e5e69b" >}}
 
 Transmittal Letter. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
 
