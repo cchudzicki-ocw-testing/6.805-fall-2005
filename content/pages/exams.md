@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Exams section contains the sample midterm exam to be used for the study
+  of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
